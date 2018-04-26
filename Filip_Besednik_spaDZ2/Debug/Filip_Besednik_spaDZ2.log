@@ -1,0 +1,5 @@
+﻿  program.cpp
+c:\users\piki\desktop\spa dz\filip_besednik_spadz2\filip_besednik_spadz2\program.cpp(10): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  game_of_life.cpp
+  Generating Code...
+  Filip_Besednik_spaDZ2.vcxproj -> C:\Users\Piki\Desktop\spa dz\Filip_Besednik_spaDZ2\Debug\Filip_Besednik_spaDZ2.exe
